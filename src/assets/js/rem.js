@@ -10,3 +10,5 @@
          };
          e.addEventListener&&(n.addEventListener(o,a,!1),e.addEventListener("DOMContentLoaded",a,!1))
 }(window);
+
+//京东模板
